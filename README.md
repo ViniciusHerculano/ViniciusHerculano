@@ -5,8 +5,8 @@
 ![Vinicius Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusHerculano&hide=html&layout=compact&show_icons=true&theme=tokyonight)
 
 
-###Contact:
-[![Linkedin Badge](https://img.shields.io/badge/-vinicius-herculano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-herculano/)](https://www.linkedin.com/in/vinicius-herculano/)
+### Contact:
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-herculano/)](https://www.linkedin.com/in/vinicius-herculano/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickmalta100@gmail.com)](mailto:viniciusherculanomap@gmail.com)
 
 
