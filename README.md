@@ -6,7 +6,7 @@
 
 
 ### Contact:
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-herculano/)](https://www.linkedin.com/in/vinicius-herculano/)
+[![Linkedin Badge](https://img.shields.io/badge/-ViniciusHerculano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-herculano/)](https://www.linkedin.com/in/vinicius-herculano/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickmalta100@gmail.com)](mailto:viniciusherculanomap@gmail.com)
 
 
