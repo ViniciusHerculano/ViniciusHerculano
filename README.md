@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm Vinicius Centeno Herculano 🙋‍**. I am a student of information systems and I aim to become a fullstack developer🎯.
+**I'm Vinicius Centeno Herculano 🙋‍**. I'm a student of information systems and I aim to become a fullstack developer🎯.
 
 ![Vinicius Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusHerculano&hide=html&layout=compact&show_icons=true&theme=tokyonight)
 
